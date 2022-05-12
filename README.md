@@ -10,3 +10,4 @@
 * https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/
 * https://github.com/CSAILVision/places365
 * https://github.com/Jeff-Zilence/VIGOR
+* https://www.iqt.org/where-in-the-world-part-1-a-new-dataset-for-cross-view-image-geolocalization/
